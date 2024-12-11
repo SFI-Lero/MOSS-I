@@ -61,7 +61,7 @@ endpage: "assets/backgrounds/BackCover.pdf"
 bibliograpy: "bibliography.bib"
 biblio-title: "References"
 biblatex: false,
-doi: "10.5281/zenodo.3235286"
+doi: "10.5281/zenodo.14392733"
 colorlinks: true,
 orcidicon: "assets/images/icons/ORCID-iD_icon_16x16.png"
 license_text: "CC BY 4.0"
