@@ -1200,7 +1200,7 @@ $endif$
 
 $if(endpage)$
 % \includepdf[pages=-]{$endpage$}
-\newpage
+\newpage \clearpage\thispagestyle{empty} \ \newpage
 \clearpage\thispagestyle{empty}
 \tikz[remember picture,overlay] \node[inner sep=0pt] at (current page.center){\includegraphics[width=\paperwidth,height=\paperheight]{$endpage$}};
 $endif$
