@@ -1048,7 +1048,7 @@ $if(titlepage-background)$
   \vskip 24em
   \begin{flushleft}
   \setstretch{0}
-  \noindent {\small $for(affiliations)$$affiliations.index$. $affiliations.name$\newline $endfor$}
+  \noindent {\small $for(affiliations)$$affiliations.index$. $affiliations.name$ $if(affiliations.ror)$ \href{https://ror.org/$affiliations.ror$}{\includegraphics[width=1em]{$roricon$}} $endif$\newline $endfor$}
   \end{flushleft}
 
   \noindent {$if(doi)$DOI: \href{https://doi.org/$doi$}{$doi$} $else$$endif$} 

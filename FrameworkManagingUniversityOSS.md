@@ -2,52 +2,56 @@
 title: "Framework for Managing University Open Source Software"
 subtitle: "An Initiative to Manage OpenSource Software in Irish Universities (MOSS-I)"
 author:
-- name: Aoife Tierney
-  affiliation: 1
-  orcid: 0009-0009-8699-7043
-- name: Carlos Tighe
-  affiliation: 2,3
-  orcid: 0000-0002-5934-9552
 - name: Clare Dillon
-  affiliation: 2,4
-  orcid: 0009-0008-6205-0296
-- name: Conor Morris 
-  affiliation: 5
+  affiliation: 1,2
+  orcid: 0009-0008-6205-0296  
+- name: Michael Meagher
+  affiliation: 3
+  orcid: 0009-0005-0804-8142
 - name: Ian Gallivan
-  affiliation: 2
+  affiliation: 1
   orcid: 0009-0004-5774-3857
 - name: Kevin Moerman
-  affiliation: 2,4
-  orcid: 0000-0003-3768-4269
+  affiliation: 1,2
+  orcid: 0000-0003-3768-4269    
 - name: Lorraine Morgan
-  affiliation: 2,4
+  affiliation: 1,2
   orcid: 0000-0002-3803-544X
-- name: Martina Prendergast
-  affiliation: 4,5
-  orcid: 0009-0009-0848-7638
-- name: Michael Meagher
-  affiliation: 5
-  orcid: 0009-0005-0804-8142
+- name: Conor Morris 
+  affiliation: 3
 - name: Noel O'Connor
-  affiliation: 6
+  affiliation: 4
   orcid: 0000-0002-4033-9135
+- name: Martina Prendergast
+  affiliation: 2,3
+  orcid: 0009-0009-0848-7638
+- name: Aoife Tierney
+  affiliation: 5
+  orcid: 0009-0009-8699-7043
+- name: Carlos Tighe
+  affiliation: 1,6
+  orcid: 0000-0002-5934-9552  
 - name: Patrick Healy
-  affiliation: 4,5
-  orcid: 0000-0002-3824-7442
+  affiliation: 2,3
+  orcid: 0000-0002-3824-7442  
 affiliations:
   - index: 1
-    name: Trinity College Dublin
-  - index: 2
     name: University of Galway
+    ror: 03bea9k73
+  - index: 2
+    name: LERO, the SFI Centre for Software Research      
   - index: 3
-    name: Insight Centre
-  - index: 4
-    name: LERO, the SFI Centre for Software Research
-  - index: 5
     name: University of Limerick
-  - index: 6
+    ror: 00a0n9e72
+  - index: 4
     name: Dublin City University
-header-right: "v1"
+    ror: 04a1a1e81    
+  - index: 5
+    name: Trinity College Dublin
+    ror: 02tyrky19    
+  - index: 6
+    name: Insight Centre
+header-right: "v1.0"
 subject: "Open Source Software, Irish Universities"
 keywords: [Open source, Irish Universities]
 lang: "en"
@@ -61,9 +65,10 @@ endpage: "assets/backgrounds/BackCover.pdf"
 bibliograpy: "bibliography.bib"
 biblio-title: "References"
 biblatex: false,
-doi: "10.5281/zenodo.3235286"
+doi: "10.5281/zenodo.14392732"
 colorlinks: true,
-orcidicon: "assets/images/icons/ORCID-iD_icon_16x16.png"
+orcidicon: "assets/images/icons/ORCID-iD_icon_32x32.png"
+roricon: "assets/images/icons/ror-icon-bw-32.png"
 license_text: "CC BY 4.0"
 license_link: "https://creativecommons.org/licenses/by/4.0/"
 ...
