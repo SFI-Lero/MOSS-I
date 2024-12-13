@@ -1,6 +1,6 @@
 ---
 title: "Framework for Managing University Open Source Software"
-subtitle: "An Initiative to Manage OpenSource Software in Irish Universities (MOSS-I)"
+subtitle: "An Initiative to Manage Open Source Software in Irish Universities (MOSS-I)"
 author:
 - name: Clare Dillon
   affiliation: 1,2
