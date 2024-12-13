@@ -268,31 +268,35 @@ An **Open Source Charter** is a less formal document than a policy and is typica
 
 The implementation of an open source framework must be tailored to each institution's unique culture, existing policies, and strategic objectives. While some universities may require comprehensive formal policies from the outset, others might benefit from starting with lightweight guidelines that can evolve over time. Research-intensive institutions might prioritise frameworks that support complex research software projects, while institutions focused on teaching might emphasise student engagement and learning opportunities. The following set of steps represents **one possible approach** to implementing an open source framework, which can be adapted based on institutional context and needs.
 
-![Approach to implementing an open source framework.](assets/images/MOSSI-OSFramework-Approach.jpg)
+![Approach to implementing an open source framework.](assets/images/MOSSI-OSFramework-Approach.jpg "Approach to implementing an open source framework.")   
 
-1. **Establish Clear Institutional Mandate**  
-* Develop formal documentation that explicitly supports OSS activities, integrated with existing research and IP policies  
-* Create clear guidance on roles and responsibilities for OSS management across departments  
-* Ensure leadership visibly champions OSS initiatives through strategic plans and public commitments  
-2. **Provide Dedicated Resources and Support**  
-* Establish a coordinating body (such as a university Open Source Program Office [@young_definition_2024]) to oversee framework development and implementation  
-* Allocate specific budget and staff resources for OSS support services including legal expertise and technical guidance  
-* Create centralised resources potentially including documentation, tools, and platforms for OSS development and hosting  
-3. **Build Open Source Skills and Literacy**  
-* Develop training programs tailored to different roles and disciplines, from basic OSS concepts to advanced development practices  
-* Integrate OSS practices into relevant curricula and research methodologies across departments  
-* Create mentorship programs pairing experienced OSS contributors with newcomers  
-4. **Create Recognition Pathways**  
-* Establish metrics and processes for tracking OSS contributions and impact  
-* Include OSS outputs in research assessment frameworks and academic evaluations  
-* Develop rewards and incentives for significant OSS contributions, such as consideration in promotion and tenure decisions  
-5. **Review and Evolve**  
-* Schedule regular framework reviews to assess effectiveness and identify areas for improvement  
-* Gather feedback from all stakeholder groups to ensure the framework continues to meet their needs  
-* Monitor global trends in open source and academic practices to maintain framework relevance  
+1. **Establish Clear Institutional Mandate**
+* Develop formal documentation that explicitly supports OSS activities, integrated with existing research and IP policies
+* Create clear guidance on roles and responsibilities for OSS management across departments
+* Ensure leadership visibly champions OSS initiatives through strategic plans and public commitments
+
+2. **Provide Dedicated Resources and Support**
+* Establish a coordinating body (such as a university Open Source Program Office [@young_definition_2024]) to oversee framework development and implementation
+* Allocate specific budget and staff resources for OSS support services including legal expertise and technical guidance
+* Create centralised resources potentially including documentation, tools, and platforms for OSS development and hosting
+
+3. **Build Open Source Skills and Literacy**
+* Develop training programs tailored to different roles and disciplines, from basic OSS concepts to advanced development practices
+* Integrate OSS practices into relevant curricula and research methodologies across departments
+* Create mentorship programs pairing experienced OSS contributors with newcomers
+
+4. **Create Recognition Pathways**
+* Establish metrics and processes for tracking OSS contributions and impact
+* Include OSS outputs in research assessment frameworks and academic evaluations
+* Develop rewards and incentives for significant OSS contributions, such as consideration in promotion and tenure decisions
+
+5. **Review and Evolve**
+* Schedule regular framework reviews to assess effectiveness and identify areas for improvement
+* Gather feedback from all stakeholder groups to ensure the framework continues to meet their needs
+* Monitor global trends in open source and academic practices to maintain framework relevance
 * Update policies, guidelines, and support resources based on lessons learned and emerging best practices
 
-# Conclusion
+# Conclusions
 
 The establishment of an open source framework is pivotal for universities aiming to align with global best practices, foster innovation, and maximise the impact of their research and educational activities. By implementing the recommended steps—such as establishing a clear institutional mandate, providing dedicated resources, building open source literacy, creating recognition pathways, and committing to ongoing review and evolution—universities can strategically harness the benefits of open source while mitigating associated risks. These measures ensure that open source practices are sustainable, secure, and fully integrated into the institution’s operations and goals. As open source becomes a cornerstone of modern academic and industry practices, universities equipped with such frameworks are well-positioned to lead innovation, drive societal impact, and ensure long-term competitiveness in the digital economy.
 
@@ -311,26 +315,31 @@ The establishment of an open source framework is pivotal for universities aiming
 6. **Engage in Global Networking**  
    Engage with international academic OSPOs to share best practices, collaborate on large-scale open source projects, and contribute to global standards for research and education.
 
+\newpage
 # Acknowledgments
 
 This document was an output from the [Lero's MOSS-I project](https://sfi-lero.github.io/OSPO/projects/moss-i/) and was funded by the National Open Research Forum (NORF). For more information about NORF and its initiatives, please visit the NORF website: [www.norf.ie](www.norf.ie).
 
 The authors would also like to thank the following members of the Irish academic community, who provided invaluable feedback and contributions to the MOSS-I project:
 
-* **Dermot Lynott**, Maynooth University  
-* **Dounia Lakhzoum**, Maynooth University  
-* **Catherine Hurley**, Maynooth University  
-* **Carlos Tighe**, University of Galway  
-* **Barak Pearlmutter**, Maynooth University  
-* **Felipe Arruda Pontes**, University of Galway  
-* **Puneet Saidha**, University of Limerick  
-* **Samantha Williams**, Trinity College Dublin  
-* **Anthony Morrissey**, University College Cork  
-* **James O'Sullivan**, South East Technological University  
-* **Jen Smith**, University of Galway  
-* **Armin Straube**, University of Limerick  
-* **Niamh Brennan**, Trinity College Dublin  
+* **Niamh Brennan**, Trinity College Dublin
+* **Danese Cooper**, Open Ireland Network, InnerSource Commons Foundation
+* **Daniel Izquierdo Cortázar**, Bitergia
 * **Oksana Dereza**, University of Galway
+* **Tobias Gabriel**, SAP
+* **Pen-Yuan Hsing**, University of Bristol and NASA's Transform to Open Science (TOPS)
+* **Catherine Hurley**, Maynooth University
+* **Dounia Lakhzoum**, Maynooth University
+* **Dermot Lynott**, Maynooth University
+* **Anthony Morrissey**, University College Cork
+* **James O'Sullivan**, South East Technological University
+* **Barak Pearlmutter**, Maynooth University
+* **Felipe Arruda Pontes**, University of Galway
+* **Puneet Saidha**, University of Limerick
+* **Jen Smith**, University of Galway
+* **Armin Straube**, University of Limerick
+* **Carlos Tighe**, University of Galway
+* **Samantha Williams**, Trinity College Dublin
 
 \newpage
 # References
