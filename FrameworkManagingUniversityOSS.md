@@ -329,6 +329,7 @@ The authors would also like to thank the following members of the Irish academic
 * **Tobias Gabriel**, SAP
 * **Pen-Yuan Hsing**, University of Bristol and NASA's Transform to Open Science (TOPS)
 * **Catherine Hurley**, Maynooth University
+* **Albert Krewinkel**, Freelancing open-source software developer
 * **Dounia Lakhzoum**, Maynooth University
 * **Dermot Lynott**, Maynooth University
 * **Anthony Morrissey**, University College Cork
