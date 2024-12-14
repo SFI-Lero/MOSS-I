@@ -43,8 +43,8 @@ jobs:
           path: output
       - name: Commit files # transfer the new pdf files back into the repository
         run: |
-          git config --local user.name "Kevin-Mattheus-Moerman"
-          git config --local user.email "kevin.moerman@gmail.com"
+          git config --local user.name ${{ github.actor }}
+          git config --local user.email ${{ github.actor }}@users.noreply.github.com
           git add .
           git commit -m "Updating pdfs"
       - name: Push changes # push the output folder to your repo
