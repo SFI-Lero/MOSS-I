@@ -1,7 +1,7 @@
 # Framework for Managing University Open Source Software
  👉 [Download the latest **Framework for Managing University Open Source Software** PDF](https://github.com/SFI-Lero/MOSS-I/tree/main/output/FrameworkManagingUniversityOSS.pdf)
 
-Welcome to the source repostory for the _"Framework for Managing University Open Source Software"_ document! This document is a results of the [NORF](https://norf.ie/) funded [MOSS-I project](https://github.com/OpenIrelandNetwork/MOSS-I). We aim to continuously update and improve the document, and welcome contributions from the community. Furthermore, we encourage individuals and organisations to fork this repository, to create formulate their distinct versions.  
+Welcome to the source repostory for the _"Framework for Managing University Open Source Software"_ document! This document is a results of the [NORF](https://norf.ie/) funded [MOSS-I project](https://github.com/OpenIrelandNetwork/MOSS-I). We aim to continuously update and improve the document, and welcome contributions from the community. Furthermore, we encourage individuals and organisations to fork this repository, to create their distinct versions.  
 
 ## Repository organisation 
 ### Documents and outputs 
