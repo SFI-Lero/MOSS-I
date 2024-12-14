@@ -11,7 +11,7 @@ This repository contains the main source for the **Framework for Managing Univer
 The PDF document produced here is generated from the markdown using a custom version of the [Eisvogel template](https://github.com/Wandmalfarbe/pandoc-latex-template). The main changes implemented here are the rendering of authors and DOI links. The template used here can be found under `/assets/templates` folder and is called [eisvogel.tex](https://github.com/SFI-Lero/MOSS-I/tree/main/assets/templates/eisvogel.tex). 
 
 ### Reference style
-The reference style currently used is the IEEE style as per the `ieee.csl` file provided in the main repository. Other styles may be found in the [Citation Style Language - Style Repository](https://github.com/citation-style-language/styles). 
+The reference style currently used is the IEEE style as per the `ieee.csl` file provided in the main repository. Other styles may be found in the [Citation Style Language - Style Repository](https://github.com/citation-style-language/styles). If an alternative style is used its `.csl` file should be added to this repository, and the "pandoc command" in the YAML defining the GitHub action should be adjusted.  
 
 ### GitHub action 
 The GitHub is defined by a YAML file (see below) found in the `.github/workflows` folder. The action (to convert the markdown document to a pdf file) is triggered uppon a push to the repository. 
