@@ -59,4 +59,4 @@ If you'd like to help improve this project, we welcome all contributions! Your c
 For more information we refer to the [contributing guidelines](https://github.com/SFI-Lero/MOSS-I/blob/main/CONTRIBUTING.md). All contributors and team members are expected to act in accordance to the [project's code of confuct](https://github.com/SFI-Lero/MOSS-I/blob/main/CODE_OF_CONDUCT.md).
 
 ## Licenses 
-The code/software shared here is licensed under the [MIT open source license](https://github.com/SFI-Lero/MOSS-I/blob/main/LICENSE). All other assets shared here, such as documents and images, are licensed under the [Creative Commons CC-BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/). 
+The code/software shared here is licensed under the [MIT open source license](https://github.com/SFI-Lero/MOSS-I/blob/main/LICENSE). All other assets shared here, such as documents and images, are licensed under the [Creative Commons CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/). 
